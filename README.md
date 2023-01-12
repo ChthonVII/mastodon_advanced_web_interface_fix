@@ -1,4 +1,4 @@
-# mastodon_advance_web_interface_fix
+# mastodon_advanced_web_interface_fix
 CSS tweak to fix Mastodon's advanced web interface for large resolutions.
 
 Causes all columns to scale, using up the full width of the screen, with the second and fourth columns scaling more than the others.
